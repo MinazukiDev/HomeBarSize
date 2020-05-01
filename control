@@ -1,0 +1,10 @@
+Package: com.minazuki.hbsize
+Name: HomeBarSize
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Change the size of the home bar.
+Depiction: https://minazukidev.github.io/html/HomeBarSize/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
